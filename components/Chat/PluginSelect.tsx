@@ -84,7 +84,7 @@ export const PluginSelect: FC<Props> = ({
             value="chatgpt"
             className="dark:bg-[#343541] dark:text-white"
           >
-            LLaMA CPP
+            ChatGPT
           </option>
 
           {PluginList.map((plugin) => (
